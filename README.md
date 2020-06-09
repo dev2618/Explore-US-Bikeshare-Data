@@ -1,4 +1,5 @@
 Explore US Bikeshare Data - Python
+
 This project is part of Udacity Programming for Data Science Nanodegree - Python.
 
 Overview 
@@ -18,14 +19,15 @@ The datasets provided by Motivate, a bike share system provider in the US, conta
 •	Start Station
 •	End Station
 •	User Type
-•	
+
+	
 The Chicago and New York City files also have the following two columns:
 •	Gender
 •	Birth Year
 
 Statistics Computed 
 1 Popular times of travel (i.e., occurs most often in the start time)
-     Most common month most common day of week most common hour of day 
+   Most common month most common day of week most common hour of day 
 2 Popular stations and trip
    Most common start station most common end station most common trip from start to end (i.e., most frequent combination of start station and end station) 
 3 Trip duration
